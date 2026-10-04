@@ -2,10 +2,10 @@
 
 ## Problem Statement
 
-Teams building and onboarding onto this platform need a minimal, known-good
-service to validate that the platform's conventions (build, deploy, contracts)
-work end to end. Without a small reference service, verifying those
-conventions means standing up something larger and harder to reason about.
+Teams building and onboarding onto this platform need a minimal, known-good  
+service to validate that the platform's conventions (build, deploy, contracts)  
+work end to end. Without a small reference service, verifying those  
+conventions means standing up something larger and harder to reason about. E2E marker s0p3-1004a.
 
 ## Solution
 
